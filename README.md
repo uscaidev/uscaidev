@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B50C8,100:C8402E&height=220&section=header&text=Public%20AI%2C%20Built%20in%20Uiseong&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%EA%B3%B5%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%E2%80%94%20%EB%A7%8C%EB%93%A4%EA%B3%A0%2C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%2C%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C%20%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4&descSize=16&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B50C8,100:C8402E&height=200&section=header&text=Public%20AI%2C%20Built%20in%20Uiseong&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=%EA%B3%B5%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C&descSize=17&descAlignY=62&animation=fadeIn)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2B50C8&center=true&vCenter=true&width=760&lines=%EA%B3%B5%EA%B3%B5%20AI%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B3%B5%EB%AC%B4%EC%9B%90;%E5%89%8D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EA%B3%B5%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B3%BC%20%C2%B7%20%E7%8F%BE%20%EC%9D%98%EC%84%B1%EA%B5%B0%20AI%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80;%EC%A4%91%EC%95%99%EC%97%90%EC%84%9C%20%EC%84%A4%EA%B3%84%ED%95%98%EB%8D%98%20%EA%B2%83%EC%9D%84%2C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EA%B3%B5%EA%B3%B5%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%8A%94%20%EA%B3%B5%ED%86%B5%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%8B%A4%20%E2%80%94%20%EA%B7%B8%EB%9E%98%EC%84%9C%20%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4)](https://github.com/uscaidev)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2B50C8&center=true&vCenter=true&width=760&lines=%EA%B3%B5%EA%B3%B5%20AI%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B3%B5%EB%AC%B4%EC%9B%90;%E5%89%8D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EA%B3%B5%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B3%BC%20%C2%B7%20%E7%8F%BE%20%EC%9D%98%EC%84%B1%EA%B5%B0%20AI%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80;%EC%A4%91%EC%95%99%EC%97%90%EC%84%9C%20%EC%84%A4%EA%B3%84%ED%95%98%EB%8D%98%20%EA%B2%83%EC%9D%84%2C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4)](https://github.com/uscaidev)
 
 ![Profile views](https://komarev.com/ghpvc/?username=uscaidev&label=Profile%20views&color=2B50C8&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/uscaidev?label=Follow&style=for-the-badge&color=C8402E&logo=github)](https://github.com/uscaidev?tab=followers)
@@ -10,7 +10,7 @@
 </div>
 
 **경상북도 의성군 AI데이터팀이 공공 AI 도구를 만들어 오픈소스로 공개하는 계정입니다.**
-행정 현장의 병목을 찾아 AI 에이전트로 재설계하고, 의성군에서 실제로 운영해 검증한 뒤, 전국 어느 기관이든 쓸 수 있게 여기에 둡니다.
+현장의 병목을 AI 에이전트로 다시 설계하고 의성에서 검증한 뒤, 어느 기관이든 쓸 수 있게 여기에 둡니다.
 
 ---
 
@@ -18,13 +18,10 @@
 
 ```yaml
 maintainer:  오현준 (Oh Hyunjun) — 의성군 기획예산과 AI데이터팀
-journey:     민간 데이터 7년(빅데이터 플랫폼 구축·DX 컨설팅·스타트업 전략기획)
-             → 행정안전부 공공지능데이터분석과 (공직 AI·데이터 분석 역량강화)
-             → 의성군 AI데이터팀 (현장에서 직접 만드는 중)
+journey:     민간 데이터 7년(빅데이터 플랫폼·DX 컨설팅·전략기획)
+             → 행정안전부 공공지능데이터분석과 → 의성군 AI데이터팀
 education:   융합기술경영학 석사
 research:    「토픽모델링을 활용한 데이터기반행정 활성화 동향분석」
-philosophy:  "공공의 문제는 대부분 공통의 문제다"
-workflow:    현장의 병목 → 관점 설계(BPR) → AI 에이전트 → 현장 운영 검증 → 오픈소스 공개
 mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작동한다"
 ```
 
@@ -32,57 +29,37 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 ## 🗂 공개 도구
 
-> 여기 있는 것은 전부 **의성군 현장에서 출발한** 도구입니다. 포크해서 바로 쓰세요.
+> 전부 의성군 현장에서 출발한 도구입니다. 포크해서 바로 쓰세요.
 
-| 도구 | 한 줄 소개 | 상태 |
+| 도구 | 소개 | 상태 |
 | --- | --- | --- |
-| 🔖 **[갈피](https://github.com/uscaidev/galpi)** | 검색이 아니라 목적에서 시작하는 법령검토 AI 에이전트 — 감사 점검·근거 탐색·조례 정비를 관점별 파이프라인으로 실행, 인용 조문은 법제처 API로 실존·현행성 실시간 검증 | ✅ [바로 사용](https://uscaidev.github.io/galpi/) |
-| ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트 (민감도 기반 모델 라우팅, 폐쇄망 설계) | 🔧 공개 준비 |
-
-<div align="center">
-
-[![갈피 바로 사용](https://img.shields.io/badge/%EA%B0%88%ED%94%BC%20%EB%B0%94%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2B50C8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://uscaidev.github.io/galpi/)
-[![License MIT](https://img.shields.io/badge/License-MIT-2E7D4F?style=for-the-badge)](https://github.com/uscaidev/galpi/blob/main/LICENSE)
-
-</div>
+| 🔖 **[갈피](https://github.com/uscaidev/galpi)** | 목적에서 시작하는 법령검토 AI 에이전트. 감사 점검·근거 탐색·조례 정비를 관점별 파이프라인으로 실행하고, 인용 조문은 법제처 API로 실시간 검증한다 | ✅ [바로 사용](https://uscaidev.github.io/galpi/) |
+| ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트. 민감도 기반 모델 라우팅, 폐쇄망 설계 | 🔧 공개 준비 |
 
 ---
 
-## 🏛️ Track Record — 현장에서 검증한 것들
+## 🏛️ Track Record
 
 | 영역 | 실적 |
 | --- | --- |
-| 🏢 **중앙 → 현장** | 행정안전부 공공지능데이터분석과에서 공직 AI·데이터 역량강화 담당 → 의성군에서 직접 실행 |
-| 🧑‍🏫 **AI 확산** | 전 직원 **854명** AI 활용 교육 총괄 · AI 챔피언 트랙 **30명** 자체 집중양성 · 6개 POC 운영 |
-| 🖥️ **인프라** | 군 단위 **생성형 AI 플랫폼 구축 PM** · 폐쇄망 로컬 LLM 스택(Open WebUI → LiteLLM → Ollama) 설계·운영 |
-| 📚 **데이터** | 군정 간행물 **7,124쪽** 하이브리드 RAG(BM25+bge-m3+리랭커) 구축 · 민간 빅데이터 플랫폼 구축 다수 |
-| 📄 **연구** | 「토픽모델링을 활용한 데이터기반행정 활성화 동향분석」|
+| 🏢 **중앙 → 현장** | 행정안전부에서 공직 AI·데이터 역량강화 담당, 의성군에서 직접 실행 |
+| 🧑‍🏫 **AI 확산** | 전 직원 **854명** AI 교육 총괄 · AI 챔피언 트랙 **30명** 집중양성 · 6개 POC 운영 |
+| 🖥️ **인프라** | 군 단위 **생성형 AI 플랫폼 구축 PM** · 폐쇄망 로컬 LLM 스택 설계·운영 |
+| 📚 **데이터** | 군정 간행물 **7,124쪽** 하이브리드 RAG 구축 · 민간 빅데이터 플랫폼 구축 다수 |
+| 📄 **연구** | 「토픽모델링을 활용한 데이터기반행정 활성화 동향분석」 |
 
 ---
 
 ## 🛠️ Stack
 
-### 🤖 AI / LLM
-
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-2B50C8?style=for-the-badge&logo=python&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/Open_WebUI-222222?style=for-the-badge&logo=openwebui&logoColor=white)
-![RAG](https://img.shields.io/badge/Hybrid_RAG-7A4FA0?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### 💻 Languages & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/CF_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-
-### 🏛️ Public Data
-
-![법제처 국가법령정보](https://img.shields.io/badge/%EA%B5%AD%EA%B0%80%EB%B2%95%EB%A0%B9%EC%A0%95%EB%B3%B4_API-C8402E?style=for-the-badge&logo=bookstack&logoColor=white)
-![공공데이터포털](https://img.shields.io/badge/%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%ED%84%B8-2E7D4F?style=for-the-badge&logo=databricks&logoColor=white)
+![국가법령정보 API](https://img.shields.io/badge/%EA%B5%AD%EA%B0%80%EB%B2%95%EB%A0%B9%EC%A0%95%EB%B3%B4_API-C8402E?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
 
@@ -93,9 +70,8 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 | 원칙 | 설명 |
 | --- | --- |
 | 🎯 **현장부터** | 기능이 아니라 실무자의 병목에서 출발한다 |
-| 🗂 **관점 = 파이프라인** | 같은 문서도 부서마다 다르게 본다 — 그 차이가 곧 설계다 |
-| 🔍 **검증 강제** | AI가 인용한 근거는 반드시 원문으로 실존·현행성을 확인한다 |
-| 🏃 **운영이 증명** | 데모가 아니라 현장 운영으로 검증한 것만 공개한다 |
+| 🗂 **관점 = 파이프라인** | 같은 문서도 부서마다 다르게 본다. 그 차이가 곧 설계다 |
+| 🔍 **검증 강제** | AI가 인용한 근거는 원문으로 실존·현행성을 확인한다 |
 | 🔓 **공개 기본** | 의성에서 작동한 도구는 오픈소스로 전국에 공유한다 |
 
 ---
@@ -105,7 +81,6 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 <div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=uscaidev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2B50C8&icon_color=C8402E&text_color=6A6E64)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=uscaidev&hide_border=true&background=00000000&ring=C8402E&fire=C8402E&currStreakLabel=2B50C8)
 
 </div>
 
@@ -121,6 +96,6 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 *"공직의 문제를 개발자의 방식으로." 🧄*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C8402E,100:2B50C8&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C8402E,100:2B50C8&height=110&section=footer)
 
 </div>
