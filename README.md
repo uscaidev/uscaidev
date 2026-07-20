@@ -24,7 +24,7 @@
 
 ```yaml
 maintainer:  오현준 (Oh Hyunjun) — 의성군 기획예산과 AI데이터팀
-career:      데이터분석 엔지니어 7년 → 입직
+career:      데이터분석 AI 개발 엔지니어 → 입직
 education:   융합기술경영학 석사
 research:    「토픽모델링을 활용한 데이터기반행정 활성화 동향분석」
 mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작동한다"
