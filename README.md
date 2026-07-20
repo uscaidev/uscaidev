@@ -35,12 +35,6 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 | 🔖 **[갈피](https://github.com/uscaidev/galpi)** | 목적에서 시작하는 법령검토 AI 에이전트. 감사 점검·근거 탐색·조례 정비를 관점별 파이프라인으로 실행하고, 인용 조문은 법제처 API로 실시간 검증한다 | ✅ [바로 사용](https://uscaidev.github.io/galpi/) |
 | ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트. 민감도 기반 모델 라우팅, 폐쇄망 설계 | 🔧 공개 준비 |
 
-<div align="center">
-
-[![galpi](https://github-readme-stats.vercel.app/api/pin/?username=uscaidev&repo=galpi&hide_border=true&bg_color=00000000&title_color=2B50C8&icon_color=C8402E&text_color=6A6E64)](https://github.com/uscaidev/galpi)
-
-</div>
-
 ---
 
 ## 🏛️ Track Record
@@ -79,19 +73,6 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 | 🗂 **관점 = 파이프라인** | 같은 문서도 부서마다 다르게 본다. 그 차이가 곧 설계다 |
 | 🔍 **검증 강제** | AI가 인용한 근거는 원문으로 실존·현행성을 확인한다 |
 | 🔓 **공개 기본** | 의성에서 작동한 도구는 오픈소스로 전국에 공유한다 |
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uscaidev/uscaidev/output/github-snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/uscaidev/uscaidev/output/github-snake.svg">
-</picture>
-
-</div>
 
 ---
 
