@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B50C8,100:C8402E&height=200&section=header&text=Public%20AI%2C%20Built%20in%20Uiseong&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=%EA%B3%B5%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C&descSize=17&descAlignY=62&animation=fadeIn)
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2B50C8&center=true&vCenter=true&width=760&lines=%EA%B3%B5%EA%B3%B5%20AI%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B3%B5%EB%AC%B4%EC%9B%90;%E5%89%8D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EA%B3%B5%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B3%BC%20%C2%B7%20%E7%8F%BE%20%EC%9D%98%EC%84%B1%EA%B5%B0%20AI%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80;%EC%A4%91%EC%95%99%EC%97%90%EC%84%9C%20%EC%84%A4%EA%B3%84%ED%95%98%EB%8D%98%20%EA%B2%83%EC%9D%84%2C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4)](https://github.com/uscaidev)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2B50C8&center=true&vCenter=true&width=760&lines=%EA%B3%B5%EA%B3%B5%20AI%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B3%B5%EB%AC%B4%EC%9B%90;%EC%9D%98%EC%84%B1%EA%B5%B0%20AI%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80%20%C2%B7%20Uiseong%20County;%EB%A7%8C%EB%93%A4%EA%B3%A0%2C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%2C%20%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4)](https://github.com/uscaidev)
 
 ![Profile views](https://komarev.com/ghpvc/?username=uscaidev&label=Profile%20views&color=2B50C8&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/uscaidev?label=Follow&style=for-the-badge&color=C8402E&logo=github)](https://github.com/uscaidev?tab=followers)
@@ -18,8 +18,7 @@
 
 ```yaml
 maintainer:  오현준 (Oh Hyunjun) — 의성군 기획예산과 AI데이터팀
-journey:     민간 데이터 7년(빅데이터 플랫폼·DX 컨설팅·전략기획)
-             → 행정안전부 공공지능데이터분석과 → 의성군 AI데이터팀
+journey:     민간 데이터 7년(빅데이터 플랫폼·DX 컨설팅·전략기획) → 공직
 education:   융합기술경영학 석사
 research:    「토픽모델링을 활용한 데이터기반행정 활성화 동향분석」
 mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작동한다"
@@ -42,7 +41,6 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 | 영역 | 실적 |
 | --- | --- |
-| 🏢 **중앙 → 현장** | 행정안전부에서 공직 AI·데이터 역량강화 담당, 의성군에서 직접 실행 |
 | 🧑‍🏫 **AI 확산** | 전 직원 **854명** AI 교육 총괄 · AI 챔피언 트랙 **30명** 집중양성 · 6개 POC 운영 |
 | 🖥️ **인프라** | 군 단위 **생성형 AI 플랫폼 구축 PM** · 폐쇄망 로컬 LLM 스택 설계·운영 |
 | 📚 **데이터** | 군정 간행물 **7,124쪽** 하이브리드 RAG 구축 · 민간 빅데이터 플랫폼 구축 다수 |
