@@ -1,8 +1,6 @@
 <div align="center">
 
-# Public AI, Built in Uiseong
-
-**공직의 문제를 개발자의 방식으로**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2B50C8,50:7A4FA0,100:C8402E&height=210&section=header&text=Public%20AI%2C%20Built%20in%20Uiseong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%EA%B3%B5%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C&descSize=17&descAlignY=60&animation=fadeIn)
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=2B50C8&center=true&vCenter=true&width=760&lines=%EA%B3%B5%EA%B3%B5%20AI%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B3%B5%EB%AC%B4%EC%9B%90;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%E2%86%92%20%EC%9D%98%EC%84%B1%EA%B5%B0%20AI%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8C%80;%EB%A7%8C%EB%93%A4%EA%B3%A0%2C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%2C%20%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4)](https://github.com/uscaidev)
 
@@ -36,6 +34,12 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 | --- | --- | --- |
 | 🔖 **[갈피](https://github.com/uscaidev/galpi)** | 목적에서 시작하는 법령검토 AI 에이전트. 감사 점검·근거 탐색·조례 정비를 관점별 파이프라인으로 실행하고, 인용 조문은 법제처 API로 실시간 검증한다 | ✅ [바로 사용](https://uscaidev.github.io/galpi/) |
 | ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트. 민감도 기반 모델 라우팅, 폐쇄망 설계 | 🔧 공개 준비 |
+
+<div align="center">
+
+[![galpi](https://github-readme-stats.vercel.app/api/pin/?username=uscaidev&repo=galpi&hide_border=true&bg_color=00000000&title_color=2B50C8&icon_color=C8402E&text_color=6A6E64)](https://github.com/uscaidev/galpi)
+
+</div>
 
 ---
 
@@ -78,11 +82,24 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contributions
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=uscaidev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2B50C8&icon_color=C8402E&text_color=6A6E64)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uscaidev/uscaidev/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/uscaidev/uscaidev/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🙏 개발자의 아침
+
+<div align="center">
+
+<img src="bowing.gif" alt="정화수 떠놓고 무사 배포를 비는 개발자" width="560">
 
 </div>
 
@@ -97,5 +114,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 [![갈피](https://img.shields.io/badge/%EA%B0%88%ED%94%BC-22251F?style=for-the-badge&logo=github&logoColor=white)](https://uscaidev.github.io/galpi/)
 
 *"공직의 문제를 개발자의 방식으로." 🧄*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C8402E,50:7A4FA0,100:2B50C8&height=110&section=footer)
 
 </div>
