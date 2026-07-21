@@ -38,7 +38,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 | 도구 | 소개 | 상태 |
 | --- | --- | --- |
-| 🔖 **[갈피](https://github.com/uscaidev/galpi)** | 목적에서 시작하는 법령검토 AI 에이전트. 법령·자치법규·행정규칙·법령해석례·판례를 국가법령정보 API로 실시간 조회하고, Codex·Claude·ChatGPT에서 MCP 도구로 쓸 수 있게 만든다 | ✅ [바로 사용](https://uscaidev.github.io/galpi/) |
+| 🔖 **[갈피](https://github.com/uscaidev/galpi-korean-law-mcp)** | 목적에서 시작하는 법령검토 AI 에이전트. 법령·자치법규·행정규칙·법령해석례·판례를 국가법령정보 API로 실시간 조회하고, Codex·Claude·ChatGPT에서 MCP 도구로 쓸 수 있게 만든다 | ✅ [바로 사용](https://uscaidev.github.io/galpi-korean-law-mcp/) |
 | 🏺 **[곳간](https://github.com/uscaidev/gotgan)** | 목적형 공공데이터 활용 판단 MCP. 공공데이터포털 목록개방현황 CSV를 로컬 인덱스로 만들고, data.go.kr 상세페이지를 라이브 조회해 데이터 존재·형태·연계 가능성과 활용신청 절차를 확인한다 | 🆕 v0.1 준비 |
 | ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트. 민감도 기반 모델 라우팅, 폐쇄망 설계 | 🔧 공개 준비 |
 
@@ -89,7 +89,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 [![Email](https://img.shields.io/badge/Email-C8402E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uscaidev2@gmail.com)
 [![의성군청](https://img.shields.io/badge/%EC%9D%98%EC%84%B1%EA%B5%B0%EC%B2%AD-2B50C8?style=for-the-badge&logo=googleearth&logoColor=white)](https://www.usc.go.kr)
-[![갈피](https://img.shields.io/badge/%EA%B0%88%ED%94%BC-22251F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uscaidev/galpi)
+[![갈피](https://img.shields.io/badge/%EA%B0%88%ED%94%BC-22251F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uscaidev/galpi-korean-law-mcp)
 [![곳간](https://img.shields.io/badge/%EA%B3%B3%EA%B0%84-2E7D4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uscaidev/gotgan)
 
 *"공직의 문제를 개발자의 방식으로." 🧄*
