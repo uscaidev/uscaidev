@@ -38,7 +38,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 | 도구 | 소개 | 상태 |
 | --- | --- | --- |
-| 🔖 **[갈피](https://github.com/uscaidev/galpi-korean-law-mcp)** | 목적에서 시작하는 법령검토 AI 에이전트. 법령·자치법규·행정규칙·법령해석례·판례를 국가법령정보 API로 실시간 조회하고, Codex·Claude·ChatGPT에서 MCP 도구로 쓸 수 있게 만든다 | ✅ [바로 사용](https://uscaidev.github.io/galpi-korean-law-mcp/) |
+| 🔖 **[갈피](https://github.com/uscaidev/galpi-korean-law-mcp)** | 목적에서 시작하는 법령검토 AI 에이전트. 법령·자치법규·행정규칙·법령해석례·판례를 국가법령정보 API로 실시간 조회하고, Codex·Claude·ChatGPT에서 MCP 도구로 쓸 수 있게 만든다 | ✅ [바로 시작](https://github.com/uscaidev/galpi-korean-law-mcp#처음-시작) |
 | 🏺 **[곳간](https://github.com/uscaidev/gotgan)** | 목적형 공공데이터 활용 판단 MCP. 공공데이터포털 목록개방현황 CSV를 로컬 인덱스로 만들고, data.go.kr 상세페이지를 라이브 조회해 데이터 존재·형태·연계 가능성과 활용신청 절차를 확인한다 | 🆕 v0.1 준비 |
 | ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트. 민감도 기반 모델 라우팅, 폐쇄망 설계 | 🔧 공개 준비 |
 | 📜 **[온말록](https://onmalrok.vercel.app)** | 국무회의·국민업무보고 영상 아카이브. KTV 유튜브 자막을 사람 개입 없이 수집·교정해 문장 단위 검색과 구간 재생을 제공하고, 부처별 지시·답변 발췌와 123대 국정과제 트래커로 잇는다 | 🌐 [베타 운영](https://onmalrok.vercel.app) · 소스 공개 준비 |
