@@ -43,6 +43,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 | 🏺 **[곳간](https://github.com/uscaidev/gotgan)** | 목적형 공공데이터 활용 판단 MCP. 공공데이터포털 목록개방현황 CSV를 로컬 인덱스로 만들고, data.go.kr 상세페이지를 라이브 조회해 데이터 존재·형태·연계 가능성과 활용신청 절차를 확인한다 | 🆕 v0.1 준비 |
 | ⚖️ **일상감사 에이전트** | 계약·감사 문서를 다관점 매트릭스로 검토하는 멀티에이전트. 민감도 기반 모델 라우팅, 폐쇄망 설계 | 🔧 공개 준비 |
 | 📜 **[온말록](https://onmalrok.vercel.app)** | 국무회의·국민업무보고 영상 아카이브. KTV 유튜브 자막을 사람 개입 없이 수집·교정해 문장 단위 검색과 구간 재생을 제공하고, 부처별 지시·답변 발췌와 123대 국정과제 트래커로 잇는다 | 🌐 [베타 운영](https://onmalrok.vercel.app) · 소스 공개 준비 |
+| 🏘️ **[아파트 몇대몇](https://github.com/uscaidev/apt-myeotdaemyeot)** | 공동주택 생활분쟁 AI 판정 카카오톡 챗봇. 누수·층간소음·관리비 사연을 실제 판례·조정사례 692건과 법령 근거로 따져 "비슷한 사건이 어느 쪽으로 판단됐는지"를 보여주고 질의문 초안까지 만든다. 실제 서버 응답을 녹화한 정적 맛보기 공개 | 🌐 [맛보기 체험](https://uscaidev.github.io/apt-myeotdaemyeot/) · 서버 비공개 |
 
 ---
 
@@ -95,6 +96,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 [![곳간](https://img.shields.io/badge/%EA%B3%B3%EA%B0%84-2E7D4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uscaidev/gotgan)
 [![온말록](https://img.shields.io/badge/%EC%98%A8%EB%A7%90%EB%A1%9D-7A4FA0?style=for-the-badge&logo=youtube&logoColor=white)](https://onmalrok.vercel.app)
 [![gov-docs-kr](https://img.shields.io/badge/gov--docs--kr-0D3B66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uscaidev/gov-docs-kr)
+[![아파트 몇대몇](https://img.shields.io/badge/%EC%95%84%ED%8C%8C%ED%8A%B8_%EB%AA%87%EB%8C%80%EB%AA%87-D4A017?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://uscaidev.github.io/apt-myeotdaemyeot/)
 
 *"공직의 문제를 개발자의 방식으로." 🧄*
 
