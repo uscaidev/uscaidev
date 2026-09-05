@@ -38,6 +38,7 @@ mindset:     "의성에서 작동하면, 전국 226개 시·군·구에서 작�
 
 | 도구 | 소개 | 상태 |
 | --- | --- | --- |
+| 🔀 **[이기종 AI 협업](https://github.com/uscaidev/heterogeneous-ai-collaboration)** | Claude Code와 Codex CLI를 한 프로젝트에서 협업시키기. 터미널 타이핑 + 마크다운 게시판으로 서로 다른 모델의 강점을 극한까지 쓴다. 5분이면 당신도 이기종 AI 협업을 시작할 수 있습니다!! 🎯 | ✅ [바로 시작](https://github.com/uscaidev/heterogeneous-ai-collaboration#2-레시피-5분) |
 | 🔖 **[갈피](https://github.com/uscaidev/galpi-korean-law-mcp)** | 목적에서 시작하는 법령검토 AI 에이전트. 법령·자치법규·행정규칙·법령해석례·판례를 국가법령정보 API로 실시간 조회하고, Codex·Claude·ChatGPT에서 MCP 도구로 쓸 수 있게 만든다 | ✅ [바로 시작](https://github.com/uscaidev/galpi-korean-law-mcp#처음-시작) |
 | 📝 **[gov-docs-kr](https://github.com/uscaidev/gov-docs-kr)** | 한국 공공기관 문서 작성 AI 스킬. 보고서·보도자료 초안, 검토·퇴고, 문장 다듬기, AI 티 제거 윤문을 "원문 → 수정안" 제안형으로 돕고, Claude Code 플러그인으로 바로 설치해 쓴다. 말씀자료 모듈은 개별 배포 | ✅ [v1.0.0 배포](https://github.com/uscaidev/gov-docs-kr) |
 | 🏺 **[곳간](https://github.com/uscaidev/gotgan)** | 목적형 공공데이터 활용 판단 MCP. 공공데이터포털 목록개방현황 CSV를 로컬 인덱스로 만들고, data.go.kr 상세페이지를 라이브 조회해 데이터 존재·형태·연계 가능성과 활용신청 절차를 확인한다 | 🆕 v0.1 준비 |
